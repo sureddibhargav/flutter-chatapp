@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549177728082",
+    "project_id": "flash-chat-98c74",
+    "storage_bucket": "flash-chat-98c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549177728082:android:0a17c252076b1c3bc0d38b",
+        "android_client_info": {
+          "package_name": "com.BhargavS.chatssey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549177728082-neo6sjhhd0n1db44gr6hn0r79be5b66r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcvsH6DDcfq6d9_KMMEwbgK-Y_TnO0AnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549177728082-neo6sjhhd0n1db44gr6hn0r79be5b66r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
